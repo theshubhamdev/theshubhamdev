@@ -6,8 +6,8 @@
 - About Me
 </h4>
 
-<!-- [![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshubhamdev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamdev&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theshubhamdev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theshubhamdev&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on My Github Profile these days.
 - 🌱 I’m currently learning Python.

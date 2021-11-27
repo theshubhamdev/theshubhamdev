@@ -48,7 +48,8 @@
   <a href="https://thestandard.in">The Standard Website</a><br />
   <a href="https://play.google.com/store/apps/details?id=com.thestandard.main">The Standard Mobile App</a>
 </p>
-##  ❤️ Let's get connected:
+
+## ❤️ Let's get connected:
 
 <p><a href="https://theshubham.in" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Theshubham.in-8bd2bd.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/shubham-lakhmani-02b3401ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/_jordan_rock/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 <a href="https://twitter.com/_jordan_rock_/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>

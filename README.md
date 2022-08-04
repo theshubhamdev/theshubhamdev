@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on `My Github Profile`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Blockchain Development`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 

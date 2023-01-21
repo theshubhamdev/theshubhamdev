@@ -14,7 +14,7 @@
 
 - 💬 Ask me about anything
 
-- ⚡ Fun fact: I waste most of my time watching Netflix and Prime Video
+- ⚡ Fun fact: I waste most of my time playing Video games
 
 ## 🛠️ Technologies and Tools I use:
 
